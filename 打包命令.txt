@@ -1,0 +1,5 @@
+PKPMOptiEnv\Scripts\activate
+pyinstaller  --distpath output --workpath build --clean Opti_BlackBox.py
+
+启动命令：
+D:\VS_Repos\PKPMOpti\PythonApplication1\Opti_BlackBox\PKPMOptiEnv\Scripts\python.exe  D:\VS_Repos\PKPMOpti\PythonApplication1\Opti_BlackBox\Opti_BlackBox.py D:\项目\宁波中石化优化后-PK模型\宁波中石化-PK模型\Opt\PKPMOpti.Config 56544
